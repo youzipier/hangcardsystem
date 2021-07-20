@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b6354660-1b8e-4ac4-9c2b-62a935577fdf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/mssqlDBConnect.php" beforeDir="false" afterPath="$PROJECT_DIR$/include/mssqlDBConnect.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/asynRead.php" beforeDir="false" afterPath="$PROJECT_DIR$/interface/asynRead.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/second_page.php" beforeDir="false" afterPath="$PROJECT_DIR$/template/second_page.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jBDBaOFiK6WaHkVFmUs2dDh8Ls" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="Y:\html\HangCardSystem\js" />
+      <recent name="Y:\html\HangCardSystem\img" />
+    </key>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\WZ-PC\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="Y:\html\HangCardSystem" />
+          <option name="myCopyRoot" value="Y:\html\HangCardSystem" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="Y:\html\HangCardSystem" />
+          <option name="myCopyRoot" value="Y:\html\HangCardSystem" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6354660-1b8e-4ac4-9c2b-62a935577fdf" name="Default Changelist" comment="" />
+      <created>1603268456775</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603268456775</updated>
+      <workItem from="1603268458344" duration="1415000" />
+      <workItem from="1608537218268" duration="11860000" />
+      <workItem from="1608615245278" duration="5403000" />
+      <workItem from="1608627377666" duration="1487000" />
+      <workItem from="1608628923799" duration="13000" />
+      <workItem from="1608685739480" duration="110000" />
+      <workItem from="1608693780113" duration="2835000" />
+      <workItem from="1611034542632" duration="2075000" />
+      <workItem from="1612430478792" duration="1799000" />
+      <workItem from="1614232317202" duration="606000" />
+      <workItem from="1619663451314" duration="23406000" />
+      <workItem from="1620461241074" duration="51000" />
+      <workItem from="1620821101512" duration="127000" />
+      <workItem from="1622536675416" duration="78705000" />
+      <workItem from="1623116808375" duration="762000" />
+      <workItem from="1623129408418" duration="176842000" />
+      <workItem from="1624233582125" duration="56180000" />
+      <workItem from="1624951351844" duration="8232000" />
+      <workItem from="1625119492966" duration="11871000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="410" y="171" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1623762260904">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="410" y="171" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.-84.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1623762260904" />
+    <state x="482" y="34" key="CommitChangelistDialog2" timestamp="1619752004297">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="482" y="34" key="CommitChangelistDialog2/1920.-84.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1619752004297" />
+    <state x="2607" y="137" key="FileChooserDialogImpl" timestamp="1625031816618">
+      <screen x="1920" y="-84" width="1920" height="1050" />
+    </state>
+    <state x="687" y="221" key="FileChooserDialogImpl/1920.-84.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1625018016243" />
+    <state x="2607" y="137" key="FileChooserDialogImpl/1920.-84.1920.1050/0.0.1920.1050@1920.-84.1920.1050" timestamp="1625031816618" />
+    <state x="749" y="432" key="NewPhpFileDialog" timestamp="1623155335145">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="749" y="432" key="NewPhpFileDialog/1920.-84.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1623155335145" />
+    <state x="369" y="87" key="SettingsEditor" timestamp="1625021708557">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="369" y="87" key="SettingsEditor/1920.-84.1920.1050/0.0.1920.1050@1920.-84.1920.1050" timestamp="1625021708557" />
+    <state x="532" y="239" key="run.anything.popup" timestamp="1624277832747">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="532" y="239" key="run.anything.popup/1920.-84.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1624277832747" />
+    <state x="539" y="15" width="840" height="1034" key="search.everywhere.popup" timestamp="1623896135557">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="539" y="15" width="840" height="1034" key="search.everywhere.popup/1920.-84.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1623896135557" />
+  </component>
+</project>

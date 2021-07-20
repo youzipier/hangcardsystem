@@ -1,0 +1,58 @@
+#big_title {
+    margin-bottom: 18px;
+    font-size: 28px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+#base_info {
+    width: 700px;
+    /*height: 800px;*/
+    border: solid #75ccf1;
+    border-width: 1px 0px 0px 1px;
+}
+
+#title {
+    height: 19px;
+    font-size: 14px;
+
+    text-align: left;
+}
+
+.common_size {
+    width: 700px;
+    /*height: 800px;*/
+}
+
+.common_bl_title {
+    height: 18px;
+    font-size: 14px;
+    font-weight: bolder;
+    background-color: #75ccf1;
+    color: white;
+    text-align: left;
+}
+
+/*教育经历和工作经历表格布局*/
+.common_font_table {
+    width: 700px;
+    /*height: 800px;*/
+    border: solid #75ccf1;
+    border-width: 1px 0px 0px 1px;
+}
+
+.common_font_table tr td {
+    height: 18px;
+    border: solid #75ccf1;
+    border-width: 0px 1px 1px 0px;
+    font-size: 13px;
+}
+
+.common_font_title {
+    margin: 10px 0;
+    font-size: 12px;
+    text-align: left;
+    border-width: 0px 1px 0px 0px;
+}
+
+

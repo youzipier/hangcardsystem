@@ -1,0 +1,24 @@
+[{
+  "text": "",
+  "state": "closed",
+  "children": [
+   {
+    "text": "第一页",
+    "id": 0,
+    "attributes" : {
+      "url":"template/index_tpl1.php"
+    }
+  },{
+    "text": "第二页",
+    "id": 1,
+    "attributes" : {
+      "url":"template/index_tpl2.php"
+    }
+  },{
+    "text": "第三页",
+    "id": 2,
+    "attributes" : {
+      "url":"template/index_tpl3.php"
+    }
+  }]
+}]
